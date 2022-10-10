@@ -1,0 +1,18 @@
+h1 {
+    background: rgb(170, 105, 170);
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 400px;
+
+}
+
+body {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
